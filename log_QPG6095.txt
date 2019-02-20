@@ -1,0 +1,4 @@
+Attempting to load 'Python.Runtime' using standard binding rules.
+'Python.Runtime' not found using standard binding rules.
+Attempting to load Python.Runtime from: 'C:\Python27\DLLs\Python.Runtime.dll'.
+Success loading 'Python.Runtime' from: 'C:\Python27\DLLs\Python.Runtime.dll'.
